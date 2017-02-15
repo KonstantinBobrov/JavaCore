@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW.iml" filepath="$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW.iml" group="1_intro_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_main.iml" group="1_intro_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_test.iml" group="1_intro_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2_oop_HW/2_oop_HW.iml" filepath="$PROJECT_DIR$/.idea/modules/2_oop_HW/2_oop_HW.iml" group="2_oop_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2_oop_HW/2_oop_HW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2_oop_HW/2_oop_HW_main.iml" group="2_oop_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2_oop_HW/2_oop_HW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2_oop_HW/2_oop_HW_test.iml" group="2_oop_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW.iml" filepath="$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW.iml" group="3_strings_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_main.iml" group="3_strings_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_test.iml" group="3_strings_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaCore.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practic/Practic.iml" filepath="$PROJECT_DIR$/.idea/modules/Practic/Practic.iml" group="Practic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practic/Practic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Practic/Practic_main.iml" group="Practic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practic/Practic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Practic/Practic_test.iml" group="Practic" />
+    </modules>
+  </component>
+</project>
