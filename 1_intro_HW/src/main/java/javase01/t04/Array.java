@@ -1,22 +1,18 @@
 package javase01.t04;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 /**
- * Created by PharuS on 24.01.2017.
+ * Задание 4. Одномерные массивы
  */
+
 public class Array {
+    public static double findMaxSumm(double[] array) {
+        assert (array.length % 2 == 0);
 
-    public static void main(String[] args) throws IOException{
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Введите колличество эллементов массива - n:");
-        int n = Integer.parseInt(reader.readLine());
-        System.out.println("Теперь последовательно введите "+ n +" элементов массива:");
-        int[] array = new int[n];
-        for (int i=0; i < array.length;  i++){
-
+        double max = Double.NEGATIVE_INFINITY;
+        for (int i = 0; i < array.length / 2; i++) {
+            double summ = array[i] + array[array.length - 1 - i];
+            if (summ > max) max = summ;
         }
+        return max;
     }
 }

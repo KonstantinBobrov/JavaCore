@@ -8,7 +8,7 @@ import javase01.t01.logic.Logic;
  * javac -d build -cp ./src/main/java src/main/java/javase01/t01/main/main.java
  *
  * Для запуска откомпилированного приложения:
- * java -cp ./build javase01.t01.main.Main
+ * java -cp ./build javase01.t01.main.Core
  *
  */
 public class Main {

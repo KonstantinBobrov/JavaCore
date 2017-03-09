@@ -13,6 +13,19 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/allclasses-frame.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/allclasses-noframe.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/constant-values.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/deprecated-list.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/help-doc.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/index-all.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/index.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/overview-tree.html" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/script.js" />
+    <file url="file://$PROJECT_DIR$/1_intro_HW/src/main/java/doc/stylesheet.css" />
+    <file url="file://$PROJECT_DIR$/3_strings_HW/src/main/resources/handling_task_attachment.html" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/classes" />
   </component>

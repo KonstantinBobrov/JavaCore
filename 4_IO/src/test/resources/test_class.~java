@@ -1,12 +1,4 @@
-package javase02.t01;
-
-import java.awt.*;
-
-/**
- * Разработайте спецификацию и создайте класс Ручка (Pen).
- * Определите в этом классе методы equals(), hashCode() и toString().
- */
-public class Pen {
+pblic clas Pen {
     private Color penColor;
     private int penRange = 100;
 
@@ -15,27 +7,28 @@ public class Pen {
     }
 
     public Pen(Color penColor){
-            this.penColor = penColor;
+        this.penColor = penColor;
     }
 
     public boolean write(){
-      if (penRange>0){
-          penRange--;
-          return true;
-      }else return false;
+        if (penRange>0){
+            penRange--;
+            return true;
+        }else return false;
     }
 
-    public Color getPenColor() {
+    public Color getPenColor(){
         return penColor;
     }
 
-    public int getPenRange() {
+    public int getPenRange(){
         return penRange;
     }
 
     @Override
-    public int hashCode() {
-        return penRange + penColor.hashCode();
+    public int hashCode()
+    {
+        return penRange  + penColor.hashCode();
     }
 
     @Override
@@ -43,9 +36,12 @@ public class Pen {
         if (this == obj) return true;
         if (null == obj) return false;
         if (getClass() != obj.getClass()) return false;
-        Pen pen = (Pen) obj;
+        Pen pen = (Pen)obj;
         if (hashCode() == pen.hashCode()) return true;
-        return penColor == pen.getPenColor() && penRange == pen.getPenRange();
+        if (penColor == pen.getPenColor() && penRange==pen.getPenRange()){
+            return true;
+        }
+        return false;
     }
 
     @Override

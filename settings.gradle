@@ -3,5 +3,12 @@ rootProject.name = 'JavaCore'
 include '1_intro_HW',
         '2_oop_HW',
         '3_strings_HW',
+        '4_IO',
+        '5_Exceptions',
+        '6_Collections',
+        '7_Multithreading',
+        '8_JDBC',
+        '9_XML',
+        '10_Servlets',
+        'JSP',
         'Practic'
-

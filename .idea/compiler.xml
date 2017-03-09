@@ -19,12 +19,28 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="10_Servlets_main" target="1.8" />
+      <module name="10_Servlets_test" target="1.8" />
       <module name="1_intro_HW_main" target="1.8" />
       <module name="1_intro_HW_test" target="1.8" />
       <module name="2_oop_HW_main" target="1.8" />
       <module name="2_oop_HW_test" target="1.8" />
       <module name="3_strings_HW_main" target="1.8" />
       <module name="3_strings_HW_test" target="1.8" />
+      <module name="4_IO_main" target="1.8" />
+      <module name="4_IO_test" target="1.8" />
+      <module name="5_Exceptions_main" target="1.8" />
+      <module name="5_Exceptions_test" target="1.8" />
+      <module name="6_Collections_main" target="1.8" />
+      <module name="6_Collections_test" target="1.8" />
+      <module name="7_Multithreading_main" target="1.8" />
+      <module name="7_Multithreading_test" target="1.8" />
+      <module name="8_JDBC_main" target="1.8" />
+      <module name="8_JDBC_test" target="1.8" />
+      <module name="9_XML_main" target="1.8" />
+      <module name="9_XML_test" target="1.8" />
+      <module name="JSP_main" target="1.8" />
+      <module name="JSP_test" target="1.8" />
       <module name="Practic_main" target="1.8" />
       <module name="Practic_test" target="1.8" />
     </bytecodeTargetLevel>

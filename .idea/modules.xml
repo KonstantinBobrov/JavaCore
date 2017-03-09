@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10_Servlets/10_Servlets.iml" filepath="$PROJECT_DIR$/.idea/modules/10_Servlets/10_Servlets.iml" group="10_Servlets" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10_Servlets/10_Servlets_main.iml" filepath="$PROJECT_DIR$/.idea/modules/10_Servlets/10_Servlets_main.iml" group="10_Servlets" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10_Servlets/10_Servlets_test.iml" filepath="$PROJECT_DIR$/.idea/modules/10_Servlets/10_Servlets_test.iml" group="10_Servlets" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW.iml" filepath="$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW.iml" group="1_intro_HW" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_main.iml" group="1_intro_HW" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1_intro_HW/1_intro_HW_test.iml" group="1_intro_HW" />
@@ -11,6 +14,27 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW.iml" filepath="$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW.iml" group="3_strings_HW" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_main.iml" group="3_strings_HW" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/3_strings_HW/3_strings_HW_test.iml" group="3_strings_HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4_IO/4_IO.iml" filepath="$PROJECT_DIR$/.idea/modules/4_IO/4_IO.iml" group="4_IO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4_IO/4_IO_main.iml" filepath="$PROJECT_DIR$/.idea/modules/4_IO/4_IO_main.iml" group="4_IO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4_IO/4_IO_test.iml" filepath="$PROJECT_DIR$/.idea/modules/4_IO/4_IO_test.iml" group="4_IO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/5_Exceptions/5_Exceptions.iml" filepath="$PROJECT_DIR$/.idea/modules/5_Exceptions/5_Exceptions.iml" group="5_Exceptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/5_Exceptions/5_Exceptions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/5_Exceptions/5_Exceptions_main.iml" group="5_Exceptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/5_Exceptions/5_Exceptions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/5_Exceptions/5_Exceptions_test.iml" group="5_Exceptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/6_Collections/6_Collections.iml" filepath="$PROJECT_DIR$/.idea/modules/6_Collections/6_Collections.iml" group="6_Collections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/6_Collections/6_Collections_main.iml" filepath="$PROJECT_DIR$/.idea/modules/6_Collections/6_Collections_main.iml" group="6_Collections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/6_Collections/6_Collections_test.iml" filepath="$PROJECT_DIR$/.idea/modules/6_Collections/6_Collections_test.iml" group="6_Collections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/7_Multithreading/7_Multithreading.iml" filepath="$PROJECT_DIR$/.idea/modules/7_Multithreading/7_Multithreading.iml" group="7_Multithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/7_Multithreading/7_Multithreading_main.iml" filepath="$PROJECT_DIR$/.idea/modules/7_Multithreading/7_Multithreading_main.iml" group="7_Multithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/7_Multithreading/7_Multithreading_test.iml" filepath="$PROJECT_DIR$/.idea/modules/7_Multithreading/7_Multithreading_test.iml" group="7_Multithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/8_JDBC/8_JDBC.iml" filepath="$PROJECT_DIR$/.idea/modules/8_JDBC/8_JDBC.iml" group="8_JDBC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/8_JDBC/8_JDBC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/8_JDBC/8_JDBC_main.iml" group="8_JDBC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/8_JDBC/8_JDBC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/8_JDBC/8_JDBC_test.iml" group="8_JDBC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/9_XML/9_XML.iml" filepath="$PROJECT_DIR$/.idea/modules/9_XML/9_XML.iml" group="9_XML" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/9_XML/9_XML_main.iml" filepath="$PROJECT_DIR$/.idea/modules/9_XML/9_XML_main.iml" group="9_XML" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/9_XML/9_XML_test.iml" filepath="$PROJECT_DIR$/.idea/modules/9_XML/9_XML_test.iml" group="9_XML" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSP/JSP.iml" filepath="$PROJECT_DIR$/.idea/modules/JSP/JSP.iml" group="JSP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSP/JSP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JSP/JSP_main.iml" group="JSP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSP/JSP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JSP/JSP_test.iml" group="JSP" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaCore.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaCore.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practic/Practic.iml" filepath="$PROJECT_DIR$/.idea/modules/Practic/Practic.iml" group="Practic" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practic/Practic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Practic/Practic_main.iml" group="Practic" />
